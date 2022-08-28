@@ -1,2 +1,4 @@
 cys_data:是apptest和pdbdatabase中所有的cys cyclic
 cyclic_data:是apptest中所有cys cyclic和pdbdatabase中所有的cys cyclic
+
+根据apptest有修改，把模型内容更改了，输出结构更改了。一版草稿。
