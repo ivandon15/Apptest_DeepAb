@@ -1,0 +1,2 @@
+cys_data:是apptest和pdbdatabase中所有的cys cyclic
+cyclic_data:是apptest中所有cys cyclic和pdbdatabase中所有的cys cyclic
